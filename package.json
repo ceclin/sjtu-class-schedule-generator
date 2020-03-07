@@ -1,0 +1,16 @@
+{
+  "name": "sjtu-class-schedule-generator",
+  "version": "1.0.0",
+  "description": "Extract SJTU course information from json file",
+  "main": "index.js",
+  "repository": "https://github.com/ceclin/sjtu-class-schedule-generator",
+  "author": "Cecil Lin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ics": "^2.19.0",
+    "jsdom": "^16.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
